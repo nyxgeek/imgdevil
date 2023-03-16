@@ -10,7 +10,7 @@ quick and dirty proof-of-concept to hide shells in images
 There are two files:
 
 * imgdevil.ps1 -- contains both encoder and decoder
-* imgdevil_decoder.p1 -- just the decoder
+* imgdevil_decoder_only.p1 -- just the decoder
 
 
 
