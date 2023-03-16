@@ -4,7 +4,7 @@ quick and dirty proof-of-concept to hide shells in images
 
 ## overview
 
-*This code is rough*. It is strictly to demonstrate.*
+*This code is rough. It is strictly to demonstrate.*
 
 
 There are two files:
