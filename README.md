@@ -28,5 +28,13 @@ The rest of the paths are local, and will write out to the local directory.
 
 
 
+To decode an image, only one line needs to be changed:
+
+```
+$webpath = "https://pbs.twimg.com/media/DUUb7yQVQAEGZDp.png"
+```
+
+by default, this points to an encoded bind shell on port 443.
+
 
 See the original blog post for more information: 
