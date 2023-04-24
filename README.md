@@ -9,8 +9,8 @@ quick and dirty proof-of-concept to hide shells in images
 
 There are two files:
 
-* imgdevil.ps1 -- contains both encoder and decoder
-* imgdevil_decoder_only.p1 -- just the decoder
+* imgdevil.ps1 -- contains both encoder and decoder. **DOES NOT EXECUTE ON ITS OWN**
+* imgdevil_decoder_only.p1 --  the decoder + invoke-expression to run. **!! THIS WILL CREATE A SHELL !!**
 
 
 
